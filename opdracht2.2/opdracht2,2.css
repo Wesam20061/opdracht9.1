@@ -1,0 +1,14 @@
+    body{
+    
+        background-image: url(1.webp);
+        background-color: #cccccc;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative; 
+        
+    }
+body{text-align: center;
+color: rgb(255, 255, 255);
+
+}
